@@ -1,0 +1,32 @@
+[
+  {
+    "group_id": 0,
+    "color": "blueviolet",
+    "text": "Трудяги",
+    "counter": 3
+  },
+  {
+    "group_id": 1,
+    "color": "blue",
+    "text": "Босс",
+    "counter": 6
+  },
+  {
+    "group_id": 2,
+    "color": "violet",
+    "text": "Секретарши",
+    "counter": 3
+  },
+  {
+    "group_id": 3,
+    "color": "deeppink",
+    "text": "Бухгалтерия",
+    "counter": 5
+  },
+  {
+    "group_id": 4,
+    "color": "green",
+    "text": "Неприкаянные",
+    "counter": 15
+  }
+]
